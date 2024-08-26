@@ -1,0 +1,1 @@
+sc create NOT-00 binpath= "%~dp0\NOT.dll" type= kernel start= demand error= normal
